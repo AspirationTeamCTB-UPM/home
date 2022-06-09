@@ -19,7 +19,7 @@ main:
     url: /year-archive/
     
   - title: "Team"
-    url: /cv/
+    url: /team/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
